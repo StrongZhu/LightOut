@@ -1,0 +1,5 @@
+* validate
+
+python validate.BinaryMatrix.py   matrix_txt_file1    
+python validate.BinaryMatrix.py   matrix_txt_file1    matrix_txt_file2  ...
+
